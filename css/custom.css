@@ -13,7 +13,9 @@ h1{text-transform: capitalize; margin-bottom: 10px;}
 .floatR{float: right;}
 .cont-h{margin-top: 20px;}
 .total-p{margin-top: -15px; font-weight: 600; color:#616472}
-.customCheckBox{margin: -15px -50px; transform: scale(.35);}
+.customCheckBox{margin-top: -60px;
+    transform: scale(.35);
+    margin-right: -48px;}
 .drak-s{margin-top: 28px; margin-left: calc(100% - 500px); font-weight: 600;}
 .media{
     background-color:#F0F3FA;
